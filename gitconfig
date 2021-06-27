@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = che.percy.l@gmail.com
+	name = Percy Che
